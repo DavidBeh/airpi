@@ -1,4 +1,4 @@
-# IDE Guide [!badge variant="warning" text="Based"]
+# IDE Guide
 
 
 Dieser Guide dient als Einführung in die Installation und Einrichtung einer _anständigen_
