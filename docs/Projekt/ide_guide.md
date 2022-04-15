@@ -37,12 +37,11 @@ werden und ermöglichen somit die portable Nutzung. Mehr darüber findet
 sich [hier](https://intellij-support.jetbrains.com/hc/en-us/articles/207240985-Changing-IDE-default-directories-used-for-config-plugins-and-caches-storage).
 
 
-Portapps bietet eine Automation für IntelliJ, und verteilt mit diesem Verfahren eine Installation
-von IntelliJ die Portable ausführbar ist.
+Portapps bietet eine portabilisierende Automatisierung für IntelliJ, welche dieses Verfahren nutzt.
 
 [!ref IntelliJ Portable bei Portapps](https://portapps.io/app/intellij-idea-ultimate-portable/)
 
-Das Verfahren würde sich auch mit anderen JB-Produkten wie PyCharm verwenden und, z.B. mit einem
+Das Verfahren würde sich auch mit anderen JB-Produkten, wie PyCharm, verwenden und, z.B. mit einem
 Powershell-Skript automatisieren.
 
 ==- Normale Installation
