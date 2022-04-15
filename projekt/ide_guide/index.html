@@ -28,11 +28,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/airpi/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="/airpi/resources/css/retype.css?v=2.2.703371855122" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/airpi/resources/css/retype.css?v=2.2.703372065325" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/airpi/resources/js/config.js?v=2.2.703371855122" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/airpi/resources/js/config.js?v=2.2.703372065325" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/airpi/resources/js/retype.js?v=2.2" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/airpi/resources/js/lunr.js?v=2.2.703371855122" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/airpi/resources/js/lunr.js?v=2.2.703372065325" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -310,9 +310,9 @@ Dazu einfach innerhalb der des Plugin-Marketplace nach &quot;Python&quot; suchen
 <p>Da uns die Nutzung des Netzwerks der Raspberry Pis unerklärlich untersagt ist, muss bei Verwendung eigener
 Geräte der Raspberry Pi über ein LAN-Kabel (ggf. mit USB-LAN-Adapter) direkt mit dem Gerät verbunden werden.
 Das scheint nur zu funktionieren, wenn der Raspberry Pi selber eine Internetverbindung hat.
-Als Address des RPIs für die IDE kann man womöglich <Hostname>.local verwenden. <br>
-Beispiel: raspberry5.local<br>
-Diese umständliche und unzuverlässige Methode könnte man vermeiden, indem man die von der
+Als Address des RPIs für die IDE kann man womöglich <code v-pre>HOSTNAME.local</code> verwenden.</p>
+<p>Beispiel: <code v-pre>raspberry5.local</code> für Raspberry Pi mit Nummer 5</p>
+<p>Diese umständliche und unzuverlässige Methode könnte man vermeiden, indem man die von der
 OTH bereitgestellten Laptops verwendet oder wenn man einfach das isolierte Netzwerk der OTH benutzen
 dürfte, in dem auch die RPIs erreichbar ist. Es handelt sich hierbei um ein kleines, wahrscheinlich
 komplett isoliertes Netzwerk mit einer Fritz!Box als Router; sowohl die Wahrscheinlichkeit,
