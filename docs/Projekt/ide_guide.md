@@ -1,6 +1,5 @@
----
-title: "IDE Guide"
----
+# IDE Guide [!badge variant="warning" text="Based"]
+
 
 Dieser Guide dient als Einführung in die Installation und Einrichtung einer _anständigen_
 Entwicklungsumgebung mit JetBrains IDEs und Remote-Debugging.
