@@ -77,8 +77,10 @@ Diese Webseiten enthalten auch weitere hilfreiche Dokumentationen zu den IDEs.
 Da uns die Nutzung des Netzwerks der Raspberry Pis unerklärlich untersagt ist, muss bei Verwendung eigener
 Geräte der Raspberry Pi über ein LAN-Kabel (ggf. mit USB-LAN-Adapter) direkt mit dem Gerät verbunden werden.
 Das scheint nur zu funktionieren, wenn der Raspberry Pi selber eine Internetverbindung hat.
-Als Address des RPIs für die IDE kann man womöglich <Hostname>.local verwenden. <br>
-Beispiel: raspberry5.local<br>
+Als Address des RPIs für die IDE kann man womöglich `HOSTNAME.local` verwenden.
+
+Beispiel: `raspberry5.local` für Raspberry Pi mit Nummer 5
+
 Diese umständliche und unzuverlässige Methode könnte man vermeiden, indem man die von der 
 OTH bereitgestellten Laptops verwendet oder wenn man einfach das isolierte Netzwerk der OTH benutzen
 dürfte, in dem auch die RPIs erreichbar ist. Es handelt sich hierbei um ein kleines, wahrscheinlich
