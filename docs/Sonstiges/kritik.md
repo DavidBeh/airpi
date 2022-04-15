@@ -18,4 +18,4 @@ Dies erschwert die produktive Entwicklung mit unseren Geräten.
 Es handelt sich hierbei um ein kleines, wahrscheinlich
 komplett isoliertes Netzwerk mit einer Fritz!Box als Router; sowohl die Wahrscheinlichkeit, 
 dass ein Gerät kompromittiertes ist, als auch dass ein kompromittiertes Gerät einen
-ansatzweise ernstzunehmenden Schaden einrichtet, ist unbedeutend klein.
+ansatzweise ernstzunehmenden Schaden verursachen _könnte_, ist unbedeutend klein.
