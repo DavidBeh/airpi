@@ -81,7 +81,7 @@ Beispiel: `raspberry5.local` für Raspberry Pi mit Nummer 5
 
 Diese umständliche und unzuverlässige Methode könnte man vermeiden, indem man die von der 
 OTH bereitgestellten Laptops verwendet oder wenn man einfach das isolierte Netzwerk der OTH benutzen
-dürfte, in dem auch die RPIs erreichbar ist. Es handelt sich hierbei um ein kleines, wahrscheinlich
+dürfte, in dem auch die RPIs erreichbar sind. Es handelt sich hierbei um ein kleines, wahrscheinlich
 komplett isoliertes Netzwerk mit einer Fritz!Box als Router; sowohl die Wahrscheinlichkeit, 
 dass ein Gerät kompromittiert ist, als auch dass ein kompromittiertes Gerät einen
-ansatzweise ernstzunehmenden Schaden _könnte_, ist unbedeutend klein.
+ansatzweise ernstzunehmenden verursachen Schaden _könnte_, ist unbedeutend klein.
