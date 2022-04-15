@@ -1,11 +1,11 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://davidbeh.github.io/airpi/
 branding:
-  title: Project Name
+  title: AirPi
   label: Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+#links:
+#- text: Getting Started
+#  link: https://retype.com/guides/getting-started/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
