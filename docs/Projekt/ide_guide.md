@@ -84,4 +84,4 @@ OTH bereitgestellten Laptops verwendet oder wenn man einfach das isolierte Netzw
 dürfte, in dem auch die RPIs erreichbar sind. Es handelt sich hierbei um ein kleines, wahrscheinlich
 komplett isoliertes Netzwerk mit einer Fritz!Box als Router; sowohl die Wahrscheinlichkeit, 
 dass ein Gerät kompromittiert ist, als auch dass ein kompromittiertes Gerät einen
-ansatzweise ernstzunehmenden verursachen Schaden _könnte_, ist unbedeutend klein.
+ansatzweise ernstzunehmenden Schaden verursachen _könnte_, ist unbedeutend klein.
