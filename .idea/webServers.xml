@@ -9,6 +9,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="2d680953-e3d3-4fea-ac8a-afdb04c660f3" name="pi release">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="raspberrypi6" port="22" sshConfigId="debbadfd-a298-41de-88a4-277c70fff752" sshConfig="pi@raspberrypi6:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
